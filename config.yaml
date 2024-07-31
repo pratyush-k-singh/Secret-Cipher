@@ -1,0 +1,9 @@
+cipher:
+  key: your-secure-key
+
+auth:
+  username: pinnacle
+  password: secrecy
+
+storage:
+  expiryDuration: 10m
